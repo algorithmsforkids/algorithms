@@ -5,7 +5,7 @@ public class SumOfEvenNumbers {
 
   public static int sumOfEvenNumbers(int n) {
     int sum = 0;  
-    for(int i = 1; i <= n; ++i) {  
+    for (int i = 1; i <= n; ++i) {  
       sum = sum + (2 * i - 1);  
     }
     return sum;
