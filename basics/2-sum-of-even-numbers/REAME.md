@@ -1,3 +1,10 @@
+# Problem
+
+Find the sum of event numbers `2+4+6+8+10+...+2n=?`
+
+# Solution
+
+```java
 public class SumOfEvenNumbers {
   public static void main(String[] args) {
     System.out.println(sumOfEvenNumbers(3));
@@ -11,5 +18,4 @@ public class SumOfEvenNumbers {
     return sum;
   }
 }
-
-// java SumOfEvenNumbers.java
+```
