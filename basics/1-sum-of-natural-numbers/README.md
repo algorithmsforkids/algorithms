@@ -1,8 +1,6 @@
 # Problem
 
-Find the sum of natural numbers `1+2+3+4+5+...+n=?`
-
-Given a number `n` and the task is to find the sum of the first `n` natural numbers.
+Find the sum of natural numbers `1+2+3+4+5+...+n=?`.
 
 # Solution
 

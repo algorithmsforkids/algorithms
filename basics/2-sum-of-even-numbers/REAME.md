@@ -1,6 +1,6 @@
 # Problem
 
-Find the sum of event numbers `2+4+6+8+10+...+2n=?`
+Find the sum of event numbers `2+4+6+8+10+...+2n=?`.
 
 # Solution
 

@@ -1,6 +1,6 @@
 # Problem
 
-Find the sum of event numbers `1+3+5+7+9+...+2n-1=?`
+Find the sum of event numbers `1+3+5+7+9+...+2n-1=?`.
 
 # Solution
 
