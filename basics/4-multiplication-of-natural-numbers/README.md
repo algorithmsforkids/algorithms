@@ -1,6 +1,6 @@
 # Problem
 
-Find the multiplication of natural numbers `1⋅2⋅3⋅4⋅5⋅...⋅n=?`
+Find the multiplication of natural numbers `1⋅2⋅3⋅4⋅5⋅...⋅n=?`.
 
 # Solution
 
